@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/zdnahom/count.svg" />
 </p>
 <h1 align="center">Hey there, I'm Nahom</h1> 
-<p><em>Remote Full-stack web developer from ET</em>
+<p><em>Remote Full-stack web developer from <b>Ethiopia</b></em>
   
 ```javascript
 const Nahom = {
