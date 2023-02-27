@@ -3,7 +3,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zdnahom/count.svg" />
 </p>
-<h1 align="center">Hey there, I'm Nahom</h1> 
+<h1 align="center">Hey there, I'm Nahom <img src="http://netanimations.net/animated_computer_076.gif" width="100"/></h1> 
 <p><em>Remote Full-stack web developer from <b>Ethiopia</b></em>
   
 ```javascript
