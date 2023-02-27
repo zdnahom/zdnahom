@@ -12,7 +12,8 @@ const Nahom = {
   position: "Full-stack developer",
   programmingLanguages: [JavaScript,HTML/CSS,Python],
   frameWork:[Bootstrap,React,React Native],
-  currently: "I am honing my coding skills","Improving my communication and collaboration skills",
+  currentlyLearnAt:"Microverse",
+  challenges: ["I am honing my coding skills","Improving my communication and collaboration skills"],
   hobbies: ["Beatbox","Dance","Play Football"]
 }
 ```
