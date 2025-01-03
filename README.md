@@ -8,7 +8,7 @@
   
 ```javascript
 const Nahom = {
-  fullName:"Nahom Zerihun Demissie",
+  name:"Nahom",
   position: "Full-stack developer",
   programmingLanguages: [JavaScript,HTML/CSS,Python],
   frameWork:[Bootstrap,React,React Native],
